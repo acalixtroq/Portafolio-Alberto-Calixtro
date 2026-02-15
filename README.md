@@ -25,4 +25,4 @@ El análisis busca responder: *¿Es la congestión vehicular un síntoma inevita
 ### 📂 Archivos en este repositorio
 * `Analisis_Movilidad_Economia.ipynb`: Notebook con el código completo del análisis (Limpieza, Exploración y Conclusiones).
 ---
-*📫 Contacto: acalixtro@outlook.com | [LinkedIn](www.linkedin.com/in/alberto-d-c)*
+*📫 Contacto: acalixtro@outlook.com | [LinkedIn](https://www.linkedin.com/in/alberto-d-c/)*
